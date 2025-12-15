@@ -1,0 +1,2 @@
+cd D:\project\ALT-Mouse-gesture
+& venv\Scripts\python.exe -m nonmouse
